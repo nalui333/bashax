@@ -1,0 +1,143 @@
+cp bashax/cfg_files/.vim rc ~/
+cp ~/vim hst_shr_2692/filedump/
+dactyl -master /common/javascript.vim 
+echo "exportEDITOR=$(whichvim )">>.bashrc
+sudo vim ./vmware-install.pl 
+sudo vim BigInsights/installPackage.sh
+sudo vim /etc/apt/apt.conf.d/proxy
+sudo vim /etc/apt/sources.list.d/graph_tool.list
+sudo vim /etc/default/grub 
+sudo vim /etc/i3status.conf 
+sudo vim /etc/profile.d/proxy.sh
+sudo vim /etc/profile.d/proxy.sh 
+sudo vim inode.c 
+sudo vim -O /etc/nginx/sites-available/{mediawiki,foswiki}
+sudo vim -u ~/.vim rc/etc/environment
+sudo vim /etc/apt/apt.conf
+sudo vim /etc/apt/preferences
+sudo vim /etc/apt/sources.list
+sudo vim /etc/apt/sources.list.d/cran.list
+sudo vim /etc/apt/sources.list.d/webupd8team-java-wheezy.list
+sudo vim /etc/audit/auditd.conf
+sudo vim /etc/cntlm.conf
+sudo vim /etc/environment
+sudo vim /etc/ld.so.conf
+sudo vim /etc/ld.so.conf.d/libc.conf
+sudo vim /etc/ld.so.conf.d/x86_64-linux-gnu.conf
+sudo vim /etc/maven/settings.xml
+sudo vim /etc/nginx/fastcgi_params
+sudo vim /etc/nginx/nginx.conf
+sudo vim /etc/nginx/sites-available/foswiki
+sudo vim /etc/nginx/sites-available/mediawiki
+sudo vim /etc/nginx/sites-enabled/
+sudo vim /etc/nginx/sites-enabled/foswiki
+sudo vim /etc/php5/fpm/php-fpm.conf
+sudo vim /etc/php5/fpm/pool.d/www.conf
+sudo vim /etc/profile.d/proxy.sh
+sudo vim /etc/skel/.config/openbox/autostart
+sudo vim /etc/ssh/ssh_config
+sudo vim /var/www/foswiki/lib/LocalSite.cfg
+sudo vim /var/www/phptest.php
+vim ~/.i3/config 
+vim -O bashax/cfg_files/.bashrc ~/.bashrc 
+vim ~/.bashrc 
+vim ~/.sbt/0.13/plugins/plugins.sbt
+vim -O .bash_aliases.bashrc
+vim -O genOneRecordPerLine.pyregex_pattern_finder
+vim -O plugins.sbt
+vim -O plugins.sbt../bokehjs/project/plugins.sbt
+vim -O prj_setup.sh
+vim -O rankingspediatric-rankings
+vim -O regex_pattern_finderparseNgen3
+vim -O solr_input_file_prep.pysolrFilePrep.py
+vim -O solr_rgx_genr.plregex_pattern_finder
+vim -O tmux_local_install*
+vim .Xdefaults
+vim .Xdefaults 
+vim .bash_history 
+vim .bashrc 
+vim .i3/config 
+vim /etc/i3status.conf
+vim /etc/profile.d/proxy.sh 
+vim /etc/slim.conf 
+vim /vmware-install.pl 
+vim Makefile
+vim bokehjs/project/Build.scala 
+vim bokehjs/requirements.txt 
+vim bokehjs/setup.py
+vim build.sbt 
+vim config.h 
+vim inode.c 
+vim keymap_common.c
+vim keymap_common.h
+vim matrix.c 
+vim plugins.sbt 
+vim project/Build.scala 
+vim vmware-install.pl 
+vim ~/.Xdefaults 
+vim ~/.bashrc
+vim ~/.bashrc 
+vim ~/.i3/config 
+vim ~/.tmux.conf 
+vim ~/.xsession-errors 
+vim ~/Downloads/buildinstr 
+vim ~/Downloads/cmds
+vim .Xdefaults
+vim .bash_aliases
+vim .bashrc
+vim .tmux.conf
+vim .vim rc
+vim /etc/audit/audit.rules
+vim /etc/cntlm.conf
+vim /etc/logrotate.d/rsyslog
+vim /etc/vim /vim rc
+vim /home/wuk/.Xdefaults
+vim /home/wuk/.Xdefaults&&xrdb-merge~/.Xdefaults
+vim /home/wuk/.bash_aliases
+vim /home/wuk/.bashrc
+vim /home/wuk/.config/ipython/profile_scala/ipython_config.py
+vim /home/wuk/.config/ipython/profile_scala/ipython_notebook_config.py
+vim /home/wuk/.gitconfig
+vim /home/wuk/.ipython/profile_nbserver/ipython_notebook_config.py
+vim /home/wuk/.tmux.conf
+vim /home/wuk/hst_shr_2692/filedump/addgpfs2node_output
+vim /home/wuk/hst_shr_2692/filedump/bigr3_4_beta_error
+vim /home/wuk/hst_shr_2692/filedump/devclstr_upgrade_3ga_to_3fp2_error_log_2015_02_06_15_07_54
+vim /home/wuk/hst_shr_2692/filedump/fixpackupdate_terminalouput
+vim /home/wuk/hst_shr_2692/filedump/sqoopImportOnProd_terminalouput
+vim /home/wuk/projects/bokeh-scala/project/plugins.sbt
+vim /home/wuk/projects/hello/funscaladump
+vim /home/wuk/projects/spark-kernel/project/build.properties
+vim /home/wuk/projects/spark-notebook/project
+vim /home/wuk/projects/spark-notebook/project/build.properties
+vim /home/wuk/projects/spark-notebook/project/build.scala
+vim /home/wuk/projects/spark-notebook/project/plugins.sbt
+vim /var/www/phptest.php
+vim Build.scala
+vim Dockerfile
+vim Makefile
+vim Vagrantfile
+vim bokeh-scala/project/plugins.sbt
+vim cmn_funk
+vim configure.fcgi
+vim genOneRecordPerLine.py
+vim gnupg-1.4.19/g10/keygen.c
+vim hst_shr_2692/filedump/ads_dataset.txt
+vim hst_shr_2692/filedump/wkrmn2/wkrmn2.ova
+vim install_stdout&&cpinstall_stdout~/hst_shr_2692/filedump/
+vim log.py
+vim monitoring_slides
+vim plugins.sbt
+vim regex_pattern_finder
+vim server/src/test/scala/ClientAuthTests.scala
+vim solr_input_file_prep.py
+vim solr_rgx_genr.pl
+vim test
+vim testfile01
+vim tmux_local_install-sh
+vim tmux_local_install.sh
+vim uninstall_stdout&&cpuninstall_stdout~/hst_shr_2692/filedump/
+vim ~/.bash_aliases
+vim ~/.encrypted_vim _rc
+vim ~/.tmux.conf
+vim ~/hst_shr_2692/filedump/cmdseq_$(date+%Y_%m_%d_%H_%M_%S)

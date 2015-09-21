@@ -16,8 +16,8 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=99999
-HISTFILESIZE=99999
+HISTSIZE=199999
+HISTFILESIZE=199999
 export PROMPT_COMMAND='history -a'
 
 # check the window size after each command and, if necessary,
@@ -29,7 +29,7 @@ shopt -s checkwinsize
 #shopt -s globstar
 
 # make less more friendly for non-text input files, see lesspipe(1)
-#[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
 
 # set variable identifying the chroot you work in (used in the prompt below)
 if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
@@ -80,15 +80,19 @@ if [ -x /usr/bin/dircolors ]; then
     #alias dir='dir --color=auto'
     #alias vdir='vdir --color=auto'
 
-    #alias grep='grep --color=auto'
-    #alias fgrep='fgrep --color=auto'
-    #alias egrep='egrep --color=auto'
+    alias grep='grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
 fi
 
 # some more ls aliases
 alias ll='ls -ltrh'
-#alias la='ls -A'
-#alias l='ls -CF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -109,7 +113,10 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-PATH=$PATH:/home/wuk/local/bin:/opt/git-tf-2.0.3.20131219
+GOROOT=$HOME/projects/goroot
+export GOPATH=$HOME/projects/gocode
+PATH=$PATH:/home/wuk/local/bin:/opt/git-tf-2.0.3.20131219:$GOROOT/bin:$GOPATH/bin
 #PATH=$PATH:/home/wuk/local/bin:/opt/scala-2.11.1/bin:/opt/git-tf-2.0.3.20131219
 #source ~/perl5/perlbrew/etc/bashrc
 export EDITOR=/usr/bin/vim
+export TERM=rxvt

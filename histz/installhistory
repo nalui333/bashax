@@ -1,0 +1,234 @@
+./tmux_local_ install .sh
+cd../un install _b4_delete_leptonica-1.71/
+cdun install _b4_delete_tesseract-ocr/
+chmod+xtmux_local_ install .sh
+cmn_funkconnectNloginprj_setup.shtmux_local_ install .sh
+curl -k L http://install.perlbrew.pl|bash
+dactyl-master/binary/ install .rdf
+dactyl-master/melodactyl/ install .rdf
+dactyl-master/pentadactyl/ install .rdf
+forpkgnin$(sudo -E pip list--outdated|grepLatest|perl-anE'say$F[0]');dosudo -E pip install --upgrade${pkgn};done
+greptmux_tmptmux_local_ install .sh
+mvleptonica-1.71un install _b4_delete_leptonica-1.71
+mvtesseract-ocrun install _b4_delete_tesseract-ocr
+npm install 
+npm install npm -g --ca=null
+perlbrew install 5.14.2
+pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs sudo -E pip install -U
+pip install --upgradenumpy
+pip install --upgradepandas
+pip install --upgradescipy
+pip install cryptography
+pip install cssselect
+pip install data
+pip install nltk
+pip install nltk.corpus
+pip install pyspark
+pip install requests
+pip install scikit-learn
+pip install scrapy
+pip install service_identity
+pip install sklearn
+pip list --outdated | grep Current | perl -anE 'say $F[0]' | grep -v matplotlib | xargs -n1 pip install -U
+pip list --outdated | grep Current | perl -anE 'say $F[0]' | grep -v matplotlib | xargs -n1 sudo -E pip install -U
+pythonsetup.py install 
+rm-f install _stdoutun install _stdout
+rm-rfun install _b4_delete_*
+rmtmux_local_ install -sh
+sudo -E apt-get install oracle-java7- install er
+sudo -E pip install --upgrade pip 
+sudo -E pip install -U numpy
+sudo -E pip install -U pip 
+sudo -E pip install -U virtualenv
+sudo -E pip install cryptography
+sudo -E pip install cssselect
+sudo -E pip install flask
+sudo -E pip install ipython
+sudo -E pip install jinja2pysidepyzmq
+sudo -E pip install lxml
+sudo -E pip install nltk
+sudo -E pip install pip --upgrade
+sudo -E pip install py2cairo
+sudo -E pip install pyzmq
+sudo -E pip install requests
+sudo -E pip install scipy
+sudo -E pip install scrapy
+sudo -E pip install virtualenv
+sudo -E pip un install pyside
+sudo -E pip un install pysidepyzmq
+sudo -E pip un install pyzmq
+sudo -Eapt-get install oracle-java7- install er=7u51-0~webupd8~1
+sudo -Eapt-get install oracle-java7- install er=7u60~webupd8~1
+sudo -Eapt-get install oracle-java7- install er=7u62-0~webupd8~1
+sudo -Eapt-get install oracle-java7- install er=7u67-0
+sudo -Eapt-get install oracle-java7- install er=7u67-0~webupd8~1
+sudo -Eapt-get install oracle-java7- install er=7u71
+sudo -Eapt-get install oracle-java7- install er=7u71-0
+sudo -Eapt-get install oracle-java7- install er=7u71-0~webupd8
+sudo -Eapt-get install oracle-java7- install er=7u71-0~webupd8~1
+sudo -Eapt-get install oracle-java7- install er=7u72-0~webupd8~1
+sudo -Eapt-get-twebupd8 install oracle-java7- install er
+sudo -H pip install --upgrade pip 
+sudo -H pip install -U pip 
+sudo -H pip install Python-nvd3
+sudo -H pip install python-nvd3
+sudo ./vmware- install .pl
+sudo ./vmware- install .pl 
+sudo ./vmware-tools-distrib/vmware- install .pl
+sudo ./vmware-tools-distrib/vmware- install .pl 
+sudo /opt/vmware-tools-distrib/vmware- install .pl
+sudo BigInsights/ install Package.sh false
+sudo apt-get install 
+sudo apt-get install --re install ca-certificates
+sudo apt-get install JavaPackage
+sudo apt-get install R
+sudo apt-get install add-apt-repository
+sudo apt-get install ansifilter
+sudo apt-get install apache-spark
+sudo apt-get install autoconfautomakelibtoolimagemagick
+sudo apt-get install autoconfautomakelibtoollibicuImageMagick
+sudo apt-get install autoconfautomakelibtoollibpng-devellibjpeg-devellibtiff-develzlib-devellibicuImageMagick
+sudo apt-get install autoconfautomakelibtoollibpng-devlibjpeg-devlibtiff-devlibicu48
+sudo apt-get install autoconfautomakelibtoollibpng-devlibjpeg-devlibtiff-devzlib-devlibicu48
+sudo apt-get install binutils
+sudo apt-get install binutils make
+sudo apt-get install boostlib
+sudo apt-get install build-essential
+sudo apt-get install build-essentialgcclocatelinux-headers-$(uname-r)
+sudo apt-get install cairo
+sudo apt-get install cairomm-1.0
+sudo apt-get install cmake
+sudo apt-get install cntlm
+sudo apt-get install cpack
+sudo apt-get install cpanm
+sudo apt-get install ctags
+sudo apt-get install curl
+sudo apt-get install e pip hany-browser
+sudo apt-get install e pip hany-webkit
+sudo apt-get install exactimage
+sudo apt-get install feh
+sudo apt-get install gcc-4.9
+sudo apt-get install git
+sudo apt-get install golang git mercurial
+sudo apt-get install htop
+sudo apt-get install i3
+sudo apt-get install ipython-notebook
+sudo apt-get install kernel*
+sudo apt-get install kernel-dev
+sudo apt-get install kernel-devel
+sudo apt-get install kernel-headers
+sudo apt-get install kicad
+sudo apt-get install lftp
+sudo apt-get install lib-cairomm
+sudo apt-get install libboost-all-dev
+sudo apt-get install libcairo
+sudo apt-get install libcairo2
+sudo apt-get install libcairo2-dev
+sudo apt-get install libcairomm
+sudo apt-get install libcairomm-1.0-1
+sudo apt-get install libcgal
+sudo apt-get install libcgal*
+sudo apt-get install libcgal++
+sudo apt-get install libcgal9
+sudo apt-get install libevent
+sudo apt-get install libevent-2.0.5
+sudo apt-get install libgcj15
+sudo apt-get install libicu-dev
+sudo apt-get install libssl-dev
+sudo apt-get install linux-headers-$(uname -r)
+sudo apt-get install localepurge 
+sudo apt-get install lsof
+sudo apt-get install make gcc autoconf
+sudo apt-get install make gcc autoconf build-essential locate linux-headers-$(uname -r)
+sudo apt-get install make gcc gcc-c++ autoconf
+sudo apt-get install maven
+sudo apt-get install mc
+sudo apt-get install mediawiki
+sudo apt-get install mlocate
+sudo apt-get install nginx
+sudo apt-get install nmap
+sudo apt-get install nodejs
+sudo apt-get install npm
+sudo apt-get install open-vm-tools
+sudo apt-get install openjdk
+sudo apt-get install oracle-java7- install er
+sudo apt-get install pdftk
+sudo apt-get install php5-fpmphp5-curlphp5-cliphp5-commonphp5-geoipphp5-mcryptphp5-memcachephp-xml-serializerphp-xml-parserphp-soapphp5-ldapphp5-gd
+sudo apt-get install php5-sqlite
+sudo apt-get install pkg-config
+sudo apt-get install py2cairo
+sudo apt-get install pycairo
+sudo apt-get install pycairo-dev
+sudo apt-get install python- pip 
+sudo apt-get install python-cairo
+sudo apt-get install python-cairo-dev
+sudo apt-get install python-graph-tool
+sudo apt-get install python-numpypython-scipypython-matplotlibipythonipython-notebookpython-pandaspython-sympypython-nose
+sudo apt-get install python-pycairo-dev
+sudo apt-get install python-software-properties
+sudo apt-get install python2
+sudo apt-get install python2.7-dev
+sudo apt-get install pythonmakegitg++curlvalgrind
+sudo apt-get install r-base
+sudo apt-get install r-base=3.1
+sudo apt-get install r-base=3.1.2
+sudo apt-get install rng-tools
+sudo apt-get install rsync
+sudo apt-get install rxvt-unicode
+sudo apt-get install rxvt-unicode-256color
+sudo apt-get install rxvt-unicode-terminfo
+sudo apt-get install sbt
+sudo apt-get install sbt-launcher
+sudo apt-get install scala
+sudo apt-get install scala maven
+sudo apt-get install slim
+sudo apt-get install software-properties-common
+sudo apt-get install spark
+sudo apt-get install sqlite
+sudo apt-get install strace
+sudo apt-get install surfraw
+sudo apt-get install swapspace
+sudo apt-get install telnet
+sudo apt-get install terminfo
+sudo apt-get install tmux
+sudo apt-get install vim
+sudo apt-get install vim rsync strace lsof
+sudo apt-get install virtualenv
+sudo apt-get install w3m
+sudo apt-get install weechat
+sudo apt-get install x11-xserver-utils
+sudo apt-get install xclip
+sudo apt-get install xinit
+sudo apt-get install zlib1g-dev
+sudo apt-get update && sudo apt-get install python-graph-tool
+sudo apt-get update && sudo apt-get install sparsehash
+sudo apt-getpurgesurfraw&&sudo apt-get install w3m
+sudo apt-getpurgew3m&&sudo apt-get install surfraw
+sudo make install 
+sudo make install libevent
+sudo makeun install 
+sudo npm install npm -g --ca=null
+sudo pip install flaskjinja2pysidepyzmq
+sudo pip install jinja2pysidepyzmq
+sudo pip install pip --upgrade
+sudo pip install pysidepyzmq
+sudo pip install virtualenv
+sudo update-alternatives-- install /usr/bin/javacjavac/opt/jdk/jdk1.7.0_72/bin/javac100
+sudo update-alternatives-- install /usr/bin/javajava/opt/jdk/jdk1.7.0_72/bin/java100
+sudo vim ./vmware- install .pl 
+sudo vim BigInsights/ install Package.sh
+sudo yum install python-cairo
+vim /vmware- install .pl 
+vim install _stdout&&cp install _stdout~/hst_shr_2692/filedump/
+vim vmware- install .pl 
+vim-Otmux_local_ install *
+vimtmux_local_ install -sh
+vimtmux_local_ install .sh
+vimun install _stdout&&cpun install _stdout~/hst_shr_2692/filedump/
+wgethttps://gist.github.com/ryin/3106801#file-tmux_local_ install -sh
+wgethttps://gist.github.com/ryin/3106801/raw/9eeb8ce065d088e27c59fac8c0cc659ada6690ba/tmux_local_ install .sh
+yum install autoconfautomakelibtoollibpng-devellibjpeg-devellibtiff-develzlib-devellibicuImageMagick
+rshync-essh--progress~/hst_shr_2692/filedump/corematics_ install _sourcesibx2692@infmlcm01.ibx.com:~/
+rshync~/hst_shr_2692/filedump/corematics_ install _sourcesibx2692@infmlcmt01:/var/tmp/
+rshync~/hst_shr_2692/jdk-7u67-linux-x64.tar.gzibx2692@infmlcm01.ibx.com:~/corematics_ install _sources/
+sudo apt-get install libxml2-dev libxslt1-dev

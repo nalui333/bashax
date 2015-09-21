@@ -72,7 +72,7 @@ URxvt*scrollBar: false
 ! keyboard select attempt 1
 URxvt.perl-ext-common: ...,keyboard-select
 URxvt.keysym.M-Escape: perl:keyboard-select:activate
-URxvt.keysym.M-s: perl:keyboard-select:search
+! URxvt.keysym.M-s: perl:keyboard-select:search
 
 ! urxvt color scheme:
 
